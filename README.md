@@ -1,4 +1,4 @@
-# food-delivery-app
+# Location-Detector
 
 > A Vue.js project
 
